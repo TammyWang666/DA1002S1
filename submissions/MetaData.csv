@@ -1,0 +1,17 @@
+﻿Dataset Id,Name,Note,
+1,Population Estimate By Local Government Area,Released at 11:30am (Canberra time) 25 March 2020,
+,,"1. This spreadsheet contains estimates of the resident population of Local Government Areas of Australia for 30 June 2018 and 30 June 2019, according to the 2019 edition of the Australian Statistical Geography Standard (ASGS). Estimates are revised for 2018 and preliminary for 2019.",
+,,2. Further information on LGAs is contained in the July 2019 update of Australian Statistical Geography Standard (ASGS): Volume 3 - Non ABS Structures (cat. no. 1270.0.55.003).,
+2,"Population Estimates by Age and Sex - Summary Statistics, by Local Government Area, 2019",Released at 11.30am (Canberra time) 28 August 2020,
+,,"1. This product contains preliminary estimates of the resident population by age and sex as at 30 June 2019. Data are provided for Local Government Areas (LGAs) of Australia, according to the 2019 edition of the Australian Statistical Geography Standard (ASGS).",
+,,2. Further information on LGAs is contained in the July 2019 update of Australian Statistical Geography Standard (ASGS): Volume 3 - Non ABS Structures (cat. no. 1270.0.55.003).,
+3,NSW COVID-19 cases by location,Coverage: 22 January 2020 - 15 October 2020,
+,,"COVID-19 cases by notification date and postcode, local health district, and local government area. The dataset is updated daily, except on weekends. The data is for confirmed COVID-19",
+,Attribute,Description,Type and form
+,Date,The date of notification,String – year/month/day
+,postcode,Suburb & Town postcode,String of digits
+,LGA code,Local Government Area code,String of digits
+,LGA Government Area,Local Government Area Name,String
+,State,State in short form,String 
+,Population Density,Population divided by area,float
+,Percentage of The Aged,Percentage of population over 65,float
